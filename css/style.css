@@ -241,11 +241,11 @@ button {
   white-space: nowrap;
   text-align: center;
   margin-left: auto;
-  padding: 0.65rem 1.5rem;
+  padding: 10px;
   border-radius: 3rem;
   text-transform: capitalize;
   color: var(--color-white);
-  background-color: var(--color-blue-600);
+  background-color: #1ca68a;
   box-shadow: var(--shadow-medium);
   transition: all 0.3s ease-in-out;
 }
